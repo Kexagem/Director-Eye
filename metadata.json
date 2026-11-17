@@ -1,0 +1,7 @@
+{
+  "name": "Director's Eye ULTIMATE ",
+  "description": "An application to assist film directors by breaking down scripts, generating visual concepts, storyboards, and AI art prompts using Gemini API.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
